@@ -6,7 +6,7 @@ body{
 }
 .clockContainer{
     position: relative;
-    background-image: url('/images/clock.png');
+    background-image: url('./images/clock.png');
     height:40vw ;
     width:40vw ;
 /*     background-color: black; */
