@@ -2,14 +2,14 @@
     margin: 0;padding: 0;
 }
 body{
-    background-color: black;
+/*     background-color: black; */
 }
 .clockContainer{
     position: relative;
     background-image: url('/images/clock.png');
     height:40vw ;
     width:40vw ;
-    background-color: black;
+/*     background-color: black; */
     background-size: contain;
     margin: auto;
     background-repeat: no-repeat;
